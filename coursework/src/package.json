@@ -1,0 +1,11 @@
+{
+  "name": "sti-ck",
+  "main": "server.js",
+  "dependencies": {
+    "express":  "latest",
+    "mongoose": "latest",
+    "passport" : "latest", 		
+    "passport-local" : "latest", 	
+    "bcrypt-nodejs" : "latest" 	
+  }
+}
